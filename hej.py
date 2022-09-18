@@ -1,2 +1,2 @@
 print('Cześć świecie!')
-print('%BUILD_NUMBER%')
+print(%BUILD_NUMBER%)
